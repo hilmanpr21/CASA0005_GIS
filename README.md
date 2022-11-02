@@ -1,5 +1,5 @@
 ## CASA0005_GIS
-# FOUNDATION OF SPATIAL DATA SCIENCE
+# GEOGRAPHIC INFORMATION SYSTEM
 ### Centre for Advance Spatial Analysis
 **Hilman Prakoso**
 _22232919_
